@@ -5,4 +5,6 @@ The app starts with a classic homepage UI that takes user input and navigates to
 ![Homepage](assets/screenshots/Homepage.PNG)
 
 ### Profile Page
+
 ![Profile Page](assets/screenshots/ProfilePage.PNG)
+

@@ -2,7 +2,7 @@
 The app starts with a classic homepage UI that takes user input and navigates to a colorful, gradient-rich profile page showcasing About, Skills, Projects, and Contact Info.
 
 ### Homepage
-![Homepage](assets/screenshots/Homepage.png)
+![Homepage](assets/screenshots/Homepage.PNG)
 
 ### Profile Page
-![Profile Page](assets/screenshots/ProfilePage.png)
+![Profile Page](assets/screenshots/ProfilePage.PNG)

@@ -1,0 +1,7 @@
+# Force Dart as the main language
+*.dart linguist-detectable=true
+
+# Ignore Android/iOS native code
+android/** linguist-vendored
+ios/** linguist-vendored
+build/** linguist-vendored
